@@ -1,13 +1,16 @@
 ## Hey, I'm Ryan 👋. 
-I live in London. I like building computers, science, maths and programming.
+[![Portfolio](https://img.shields.io/badge/Portfolio-9B3316?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDI3LjguMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAyODMuNSAyODMuNSIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMjgzLjUgMjgzLjU7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KCS5zdDB7ZmlsbDojRTk0RTFCO30KPC9zdHlsZT4KPHBhdGggZD0iTTE0Ny4zLDE3LjljMC40LTAuOSwxLjMtMS43LDIuNy0yLjVjMS40LTAuNywzLjUtMS4xLDYuNC0xLjFoMC43VjYuMUgxMjhjLTAuNywwLTEuNiwwLjEtMi4yLDAuN2MtMC43LDAuNi0wLjksMS40LTAuOSwxLjkKCXYxMzIuNmMwLDAuNSwwLjIsMS4zLDAuOSwxLjljMC43LDAuNiwxLjYsMC42LDEuOCwwLjZjMC4yLDAsMC40LDAsMC40LDBoMjkuMXYtOC4xYy00LjMsMC03LjEtMC42LTguNC0xLjkKCWMtMS4zLTEuMy0xLjktMy4zLTEuOS02LjFWMjMuMUMxNDYuOCwyMC42LDE0Ni45LDE4LjgsMTQ3LjMsMTcuOXoiLz4KPHBhdGggZD0iTTI0MS4xLDE3LjljLTAuNC0wLjktMS4zLTEuNy0yLjctMi41Yy0xLjQtMC43LTMuNS0xLjEtNi40LTEuMWgtMC43VjYuMWgyOS4xYzAuNiwwLDEuNiwwLjEsMi4yLDAuNwoJYzAuNywwLjYsMC45LDEuNCwwLjksMS45djEzMi42YzAsMC41LTAuMiwxLjMtMC45LDEuOWMtMC42LDAuNi0xLjYsMC42LTEuOCwwLjZjLTAuMiwwLTAuNCwwLTAuNCwwaC0yOS4xdi04LjEKCWM0LjMsMCw3LjEtMC42LDguNC0xLjljMS4zLTEuMywxLjktMy4zLDEuOS02LjFWMjMuMUMyNDEuNywyMC42LDI0MS41LDE4LjgsMjQxLjEsMTcuOXoiLz4KPHBvbHlnb24gY2xhc3M9InN0MCIgcG9pbnRzPSIxNzcuNiwyNS4xIDE2MS4xLDI1LjEgMjEwLjUsMTI3LjcgMjI3LjEsMTI3LjcgIi8+CjxwYXRoIGQ9Ik0xMTcuMSwyNjYuOWMtMi40LTAuNC01LTIuNC03LjItNC44Yy0zLjktNC45LTYuOS0xMS4yLTYuOS0xOS41di00OS4zYzAtMTMuNi00LjgtMjUuMS0xNC4zLTM0LjYKCWMtOS4zLTkuMi0yNi44LTEzLjktNDAtMTQuMWMwLDAsMC0wLjEsMC0wLjFjMTMuMi0wLjMsMzAuNy01LDM5LjktMTQuMWM5LjUtOS41LDE0LjMtMjEsMTQuMy0zNC42VjU0LjJjMC0xMy4zLTQuNy0yNC43LTE0LjEtMzQuMwoJQzc5LjMsMTAuNCw2MC44LDUuNiw0Ny4yLDUuNkwxOC45LDUuNXYxMC43YzAsMCwxNi42LTAuNywyMy4yLDAuOGM3LjEsMS43LDkuOCw2LjQsMTEuOCwxMC41YzIsMy45LDMuMyw4LjUsMy4zLDE0djY1LjIKCWMwLDE1LjEtMy42LDIzLTExLjYsMjYuN2MtNy45LDIuMS0yNi4zLDEuOS0yNi4zLDEuOWwtMC4yLDE1LjFjMCwwLDE3LjMtMC4xLDIzLjYsMi45YzYuMyw0LjYsMTQuNiwxMS4xLDE0LjYsMjl2OC45bDAsMHYzOC42CgljMCwxMy4zLDQuNywyNC43LDE0LjEsMzQuM2M5LjQsOS41LDI3LjksMTQuMyw0MS41LDE0LjNoMTEuMmM1LDAuMiw4LjMsMCw4LjMsMGwwLTEwLjVDMTMyLjMsMjY3LjksMTIzLjgsMjY4LDExNy4xLDI2Ni45eiIvPgo8L3N2Zz4K)](https://www.ryannavsaria.co.uk/)
+
+I live in London. I like building computers, maths and programming.
 
 ### What I Work With
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/Rust-FF4D00?style=for-the-badge&logo=rust&logoColor=white">
 
+### Featured Projects
 
-### My Favorite Project Repos
-* <a href="https://github.com/RNAV2019/astro-wotd">Astro WOTD</a> - A website that displays a unique word of the day to improve vocabulary
-* <a href="https://github.com/RNAV2019/CurseForgeModpackViewer">CurseforgeModpackViewer</a> - View the mods in a minecraft modpack using project ID
-* <a href="https://github.com/RNAV2019/GCSEComputerScienceQuiz">GCSEComputerScienceQuiz</a> - A quiz made in C# for OCR GCSE Computer Science Course
+- **[Astro WOTD](https://github.com/RNAV2019/astro-wotd)**: An interactive website that showcases a new word each day, designed to enhance vocabulary and promote continuous learning.
+  
+- **[Avenue](https://github.com/RNAV2019/avenue-svelte)**: A customizable platform for efficiently organizing and sharing personal links, empowering users to maintain a clean, organized online presence.
+  
+- **[K2](https://github.com/RNAV2019/GCSEComputerScienceQuiz)**: A versatile, lightweight tool focused on compressing and optimizing images for the web, offering fast and efficient solutions for web developers.
 
-![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnav2019&show_icons=true&theme=dark)
