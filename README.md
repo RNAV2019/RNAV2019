@@ -10,7 +10,7 @@ I live in London. I like building computers, maths and programming.
 
 - **[Astro WOTD](https://github.com/RNAV2019/astro-wotd)**: An interactive website that showcases a new word each day, designed to enhance vocabulary and promote continuous learning.
   
-- **[Avenue](https://github.com/RNAV2019/avenue-svelte)**: A customizable platform for efficiently organizing and sharing personal links, empowering users to maintain a clean, organized online presence.
+- **[Avenue](https://github.com/RNAV2019/avenue-web)**: A customizable platform for efficiently organizing and sharing personal links, empowering users to maintain a clean, organized online presence.
   
 - **[K2](https://github.com/RNAV2019/GCSEComputerScienceQuiz)**: A versatile, lightweight tool focused on compressing and optimizing images for the web, offering fast and efficient solutions for web developers.
 
